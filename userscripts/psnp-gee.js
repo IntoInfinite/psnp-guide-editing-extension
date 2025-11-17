@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name psnp-guide-editor-enhancements
 // @version 0.0.1
-// @namespace http://tampermonkey.net/
+// @namespace psnp-gee
 // @description Extension for writing guides on PSNP.
 // @author IntoInfinite
 // @homepage https://github.com/IntoInfinite/psnp-guide-editing-extension
@@ -10,6 +10,7 @@
 // @license https://www.gnu.org/licenses/gpl-3.0.en.html
 // @match https://psnprofiles.com/*
 // @require https://cdn.jsdelivr.net/npm/sweetalert2@11.19.1
+// @run-at document-start
 // ==/UserScript==
 
 /******/ (() => { // webpackBootstrap
