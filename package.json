@@ -39,18 +39,14 @@
     "namespace": "http://tampermonkey.net/",
     "license": "https://www.gnu.org/licenses/gpl-3.0.en.html",
     "match": [
-      "https://github.com/*"
-    ],
-    "connect": [
-      "github.com"
+      "https://psnprofiles.com/*"
     ],
     "require": [],
-    "grant": [
-      "GM.xmlHttpRequest"
-    ],
     "exclude": [],
     "resources": [],
-    "keyedResources": {}
+    "keyedResources": {},
+    "downloadURL": "https://github.com/IntoInfinite/psnp-guide-editing-extension/blob/main/userscripts/psnp-gee.js",
+    "updateURL": "https://github.com/IntoInfinite/psnp-guide-editing-extension/blob/main/userscripts/psnp-gee.js"
   },
   "dependencies": {
     "sweetalert2": "^11.19.1"
