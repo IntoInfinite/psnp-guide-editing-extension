@@ -3,7 +3,7 @@
 // @version 0.0.1
 // @namespace http://tampermonkey.net/
 // @description Extension for writing guides on PSNP.
-// @author pboymt
+// @author IntoInfinite
 // @homepage https://github.com/IntoInfinite/psnp-guide-editing-extension
 // @updateURL https://github.com/IntoInfinite/psnp-guide-editing-extension/blob/main/userscripts/psnp-gee.js
 // @downloadURL https://github.com/IntoInfinite/psnp-guide-editing-extension/blob/main/userscripts/psnp-gee.js

@@ -13,8 +13,8 @@
     "url": "git+https://github.com/IntoInfinite/psnp-guide-editing-extension.git"
   },
   "keywords": [],
-  "author": "pboymt",
-  "license": "MIT",
+  "author": "IntoInfinite",
+  "license": "GPL-3.0-only",
   "bugs": {
     "url": "https://github.com/IntoInfinite/psnp-guide-editing-extension/issues"
   },
