@@ -5,8 +5,8 @@
 // @description Extension for writing guides on PSNP.
 // @author IntoInfinite
 // @homepage https://github.com/IntoInfinite/psnp-guide-editing-extension
-// @updateURL https://github.com/IntoInfinite/psnp-guide-editing-extension/blob/main/userscripts/psnp-gee.js
-// @downloadURL https://github.com/IntoInfinite/psnp-guide-editing-extension/blob/main/userscripts/psnp-gee.js
+// @updateURL https://raw.githubusercontent.com/IntoInfinite/psnp-guide-editing-extension/refs/heads/main/userscripts/psnp-gee.js
+// @downloadURL https://raw.githubusercontent.com/IntoInfinite/psnp-guide-editing-extension/refs/heads/main/userscripts/psnp-gee.js
 // @license https://www.gnu.org/licenses/gpl-3.0.en.html
 // @match https://psnprofiles.com/*
 // @require https://cdn.jsdelivr.net/npm/sweetalert2@11.19.1

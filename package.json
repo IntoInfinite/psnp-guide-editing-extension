@@ -45,8 +45,8 @@
     "exclude": [],
     "resources": [],
     "keyedResources": {},
-    "downloadURL": "https://github.com/IntoInfinite/psnp-guide-editing-extension/blob/main/userscripts/psnp-gee.js",
-    "updateURL": "https://github.com/IntoInfinite/psnp-guide-editing-extension/blob/main/userscripts/psnp-gee.js",
+    "downloadURL": "https://raw.githubusercontent.com/IntoInfinite/psnp-guide-editing-extension/refs/heads/main/userscripts/psnp-gee.js",
+    "updateURL": "https://raw.githubusercontent.com/IntoInfinite/psnp-guide-editing-extension/refs/heads/main/userscripts/psnp-gee.js",
     "run-at": "document-start",
     "sandbox": "raw"
   },
