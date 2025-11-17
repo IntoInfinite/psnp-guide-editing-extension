@@ -1,2 +1,2 @@
-# psnp-guide-editing-extension
+# Guide Editing Extension
 Guide Editing Extension for PSNP
