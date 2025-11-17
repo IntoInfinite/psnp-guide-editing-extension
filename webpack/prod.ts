@@ -10,7 +10,7 @@ export default merge(base, {
     },
     output: {
         path: path.resolve(".", "userscripts"),
-        filename: "psnp-gee.js",
+        filename: "psnp-gee.user.js",
     },
     watchOptions: {
         ignored: /node_modules/,

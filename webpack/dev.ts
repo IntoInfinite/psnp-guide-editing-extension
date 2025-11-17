@@ -10,7 +10,7 @@ export default merge(base, {
     },
     output: {
         path: path.resolve(".", "userscripts"),
-        filename: "psnp-gee.dev.js",
+        filename: "psnp-gee.dev.user.js",
     },
     devtool: 'eval-source-map',
     watch: true,
