@@ -1,6 +1,6 @@
 {
   "name": "psnp-guide-editor-enhancements",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extension for writing guides on PSNP.",
   "main": "userscript/psnp-gee.js",
   "scripts": {
@@ -45,8 +45,8 @@
     "exclude": [],
     "resources": [],
     "keyedResources": {},
-    "downloadURL": "https://raw.githubusercontent.com/IntoInfinite/psnp-guide-editing-extension/refs/heads/main/userscripts/psnp-gee.js",
-    "updateURL": "https://raw.githubusercontent.com/IntoInfinite/psnp-guide-editing-extension/refs/heads/main/userscripts/psnp-gee.js",
+    "downloadURL": "https://github.com/IntoInfinite/psnp-guide-editing-extension/raw/refs/heads/main/userscripts/psnp-gee.user.js",
+    "updateURL": "https://github.com/IntoInfinite/psnp-guide-editing-extension/raw/refs/heads/main/userscripts/psnp-gee.user.js",
     "run-at": "document-start",
     "sandbox": "raw"
   },
